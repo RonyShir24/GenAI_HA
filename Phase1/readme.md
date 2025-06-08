@@ -30,7 +30,7 @@ To get started with the project, follow the next steps:
 
 ```bash
 cd Phase1
-streamlit run \ActivatePlatform.py
+streamlit run ActivatePlatform.py
 ```
 
     the Streamlit app will launch. Upload your file via the file uploader to see the analysis results.
