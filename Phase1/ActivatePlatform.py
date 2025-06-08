@@ -50,7 +50,7 @@ if uploaded_file is not None:
             
         metricRes = phase1.AccuracyCompleteness(LLM_JsonGen4O , LLM_JsonGen4Omini , contentList)
         
-        st.markdown(f"Accuracy compare the ground truth values: {metricRes[0]:.2f}%")
+        st.markdown(f"Accuracy: {metricRes[0]:.2f}%")
         st.markdown(f"Completncess: {metricRes[1]:.2f}%")
         
         for error in metricRes[2]:
