@@ -47,7 +47,7 @@ Phase2/
 
    # Create & activate a virtual environment
    python -m venv .venv
-   source .venv\Scripts\activate       # Windows
+   .venv\Scripts\activate       # Windows
 
    # Install dependencies
    pip install -r requirements.txt
