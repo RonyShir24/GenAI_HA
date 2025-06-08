@@ -92,7 +92,7 @@ Run the backend side:
 
 Run the UI:
    ```bash
-streamlit run \ActivatePlatform.py
+streamlit run ActivatePlatform.py
 ```
 ---
 
