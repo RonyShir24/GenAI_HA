@@ -1,4 +1,4 @@
-# Home Assignment - Phase 1
+# Develop a System That Extracts Information
 
 ## Overview
 This repository contains a pipeline for extracting information from ביטוח לאומי (National Insurance Institute) forms using OCR and Azure OpenAI.
@@ -13,32 +13,25 @@ It computes **accuracy** and **completeness** metrics to evaluate extraction qua
 ├── Phase1.py                   # Backend functions (analysis and metrics)
 └── README.md                   # Project documentation (this file)
 ```
-
+  - `ActivatePlatform.py` – launches the UI and serve as main script.  
+  - `Phase1.py` - backend functions (analysis and metrics)
+  - `phase1_data/` – Raw documents for extraction.  
 
 ## Prerequisites    
-1. Install the **required dependencies**:
+1. Install the **required dependencies** from root folder:
     ```bash
     pip install -r requirements.txt
     ```
-2. **Environment variables** - Fill the .env file with all the key and relevnt information.
+2. **Environment variables** - Fill the .env file with all the key and relevnt information. The file can be found in the root folder.
 
 
 ## Getting Started
 To get started with the project, follow the next steps:
 
-1. **Clone** the repository:
-    ```bash
-    git clone <repository-url>
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd Phase1
-    ```
-3. Run the next command 
-    ```bash
-    streamlit run .\Phase1\ActivatePlatform.py
-    ```
+```bash
+cd Phase1
+streamlit run \ActivatePlatform.py
+```
     the Streamlit app will launch. Upload your file via the file uploader to see the analysis results.
 
 
@@ -50,7 +43,7 @@ Since we lack labeled ground truth for the extracted JSON, I simulate a referenc
 1. **Building the pseudo–ground truth**  
    - I run Azure Document Intelligence and extract all text content from page 1, creating a pool of every word in the form—both relevant and otherwise.  
    - After LLM extraction, I parse each attribute’s value and check whether *all* attribute words appear in the Document Intelligence pool.  
-   - If they do, I count that attribute as correct. 
+     If they do, I count that attribute as correct. 
 
    - **Content-based accuracy** = (# correctly matched attributes) / JsonLen
 
