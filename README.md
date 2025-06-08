@@ -43,7 +43,8 @@ GENAI_HA/
 
 - **Goal**: A two-phase chatbot:
   1. **Information Collection** – Gather user details (e.g name, HMO, tier).  
-  2. **Q&A** – Answer medical service queries using HTML knowledge base and embeddings.  
+  2. **Q&A** – Answer medical service queries using HTML knowledge base and embeddings.
+     
 - **Key Files**:  
   - `parsed_hmo_data.json` – Parsed HMO information.  
   - `embeddings.pkl` – Precomputed embeddings for retrieval.  
@@ -62,6 +63,8 @@ Both files are shared between the two assignments.
   - `.env.example` – Template for environment variables.  Copy the file and fill all relevent fields. 
   - `requirements.txt` – Python dependencies.
 
+  - An Azure credentials
+
 ---
 
 ## Setup & Installation
@@ -70,22 +73,11 @@ Both files are shared between the two assignments.
 # Clone the repository
 git clone <your-repo-url> 
 cd project-root
-
-# Phase 1 setup
-cd Phase1
 python -m venv .venv
-source .venv/bin/activate  # or .venv\Scripts\activate on Windows
-pip install -r requirements.txt
-cp .env.example .env
-
-# Phase 2 setup
-cd Phase2
-python -m venv .venv
-source .venv/bin/activate
+.venv\Scripts\activate
 pip install -r requirements.txt
 cp .env.example .env
 ```
-
 ---
 
 ## Running Each Phase
@@ -94,7 +86,7 @@ cp .env.example .env
 
 ```bash
 cd Phase1
-streamlit run \ActivatePlatform.py
+streamlit run ActivatePlatform.py
 ```
 ---
 
@@ -103,6 +95,6 @@ streamlit run \ActivatePlatform.py
 ```bash
 cd Phase1
 python FastAPI.py                     
-streamlit run \ActivatePlatform.py 
+streamlit run ActivatePlatform.py 
 ```
 

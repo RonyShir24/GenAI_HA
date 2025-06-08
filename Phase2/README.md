@@ -43,13 +43,8 @@ Phase2/
 
    ```bash
    git clone <repository-url>
-   cd Phase2
-
-   # Create & activate a virtual environment
    python -m venv .venv
-   source .venv\Scripts\activate       # Windows
-
-   # Install dependencies
+   .venv\Scripts\activate 
    pip install -r requirements.txt
    ```
 
@@ -92,7 +87,7 @@ Run the backend side:
 
 Run the UI:
    ```bash
-streamlit run \ActivatePlatform.py
+streamlit run ActivatePlatform.py
 ```
 ---
 
