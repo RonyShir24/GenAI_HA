@@ -1,0 +1,3629 @@
+{
+  "benefits": {
+    "מכבי": {
+      "רפואה משלימה (רפואה אלטרנטיבית)": {
+        "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+        "treatments": {
+          "דיקור סיני (אקופונקטורה)": {
+            "זהב": {
+              "discount": "70%",
+              "annual_limit": "20",
+              "full_text": "70% הנחה, עד 20 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "50%",
+              "annual_limit": "12",
+              "full_text": "50% הנחה, עד 12 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "30%",
+              "annual_limit": "8",
+              "full_text": "30% הנחה, עד 8 טיפולים בשנה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "רפואה משלימה (רפואה אלטרנטיבית)",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 10",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "10"
+                ],
+                "primary_extension": "10"
+              }
+            }
+          },
+          "שיאצו": {
+            "זהב": {
+              "discount": "65%",
+              "annual_limit": "15",
+              "full_text": "65% הנחה, עד 15 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "45%",
+              "annual_limit": "10",
+              "full_text": "45% הנחה, עד 10 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "25%",
+              "annual_limit": "6",
+              "full_text": "25% הנחה, עד 6 טיפולים בשנה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "רפואה משלימה (רפואה אלטרנטיבית)",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 10",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "10"
+                ],
+                "primary_extension": "10"
+              }
+            }
+          },
+          "רפלקסולוגיה": {
+            "זהב": {
+              "discount": "60%",
+              "annual_limit": "12",
+              "full_text": "60% הנחה, עד 12 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "40%",
+              "annual_limit": "8",
+              "full_text": "40% הנחה, עד 8 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "20%",
+              "annual_limit": "5",
+              "full_text": "20% הנחה, עד 5 טיפולים בשנה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "רפואה משלימה (רפואה אלטרנטיבית)",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 10",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "10"
+                ],
+                "primary_extension": "10"
+              }
+            }
+          },
+          "נטורופתיה": {
+            "זהב": {
+              "discount": "70%",
+              "annual_limit": "16",
+              "full_text": "70% הנחה, עד 16 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "50%",
+              "annual_limit": "10",
+              "full_text": "50% הנחה, עד 10 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "30%",
+              "annual_limit": "6",
+              "full_text": "30% הנחה, עד 6 טיפולים בשנה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "רפואה משלימה (רפואה אלטרנטיבית)",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 10",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "10"
+                ],
+                "primary_extension": "10"
+              }
+            }
+          },
+          "הומאופתיה": {
+            "זהב": {
+              "discount": "65%",
+              "annual_limit": "12",
+              "full_text": "65% הנחה, עד 12 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "45%",
+              "annual_limit": "8",
+              "full_text": "45% הנחה, עד 8 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "25%",
+              "annual_limit": "5",
+              "full_text": "25% הנחה, עד 5 טיפולים בשנה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "רפואה משלימה (רפואה אלטרנטיבית)",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 10",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "10"
+                ],
+                "primary_extension": "10"
+              }
+            }
+          },
+          "כירופרקטיקה": {
+            "זהב": {
+              "discount": "75%",
+              "annual_limit": "18",
+              "full_text": "75% הנחה, עד 18 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "55%",
+              "annual_limit": "12",
+              "full_text": "55% הנחה, עד 12 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "35%",
+              "annual_limit": "8",
+              "full_text": "35% הנחה, עד 8 טיפולים בשנה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "רפואה משלימה (רפואה אלטרנטיבית)",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 10",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "10"
+                ],
+                "primary_extension": "10"
+              }
+            }
+          }
+        }
+      },
+      "מרפאות תקשורת": {
+        "title": "מרפאות תקשורת",
+        "treatments": {
+          "אבחון הפרעות שפה ודיבור": {
+            "זהב": {
+              "discount": "90%",
+              "annual_limit": "",
+              "full_text": "90% הנחה, כולל דוח מפורט"
+            },
+            "כסף": {
+              "discount": "70%",
+              "annual_limit": "",
+              "full_text": "70% הנחה"
+            },
+            "ארד": {
+              "discount": "50%",
+              "annual_limit": "",
+              "full_text": "50% הנחה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "מרפאות תקשורת",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 13",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "13"
+                ],
+                "primary_extension": "13"
+              }
+            }
+          },
+          "טיפול בגמגום": {
+            "זהב": {
+              "discount": "80%",
+              "annual_limit": "30",
+              "full_text": "80% הנחה, עד 30 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "60%",
+              "annual_limit": "20",
+              "full_text": "60% הנחה, עד 20 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "40%",
+              "annual_limit": "12",
+              "full_text": "40% הנחה, עד 12 טיפולים בשנה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "מרפאות תקשורת",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 13",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "13"
+                ],
+                "primary_extension": "13"
+              }
+            }
+          },
+          "טיפול בהפרעות קול": {
+            "זהב": {
+              "discount": "75%",
+              "annual_limit": "20",
+              "full_text": "75% הנחה, עד 20 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "55%",
+              "annual_limit": "15",
+              "full_text": "55% הנחה, עד 15 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "35%",
+              "annual_limit": "10",
+              "full_text": "35% הנחה, עד 10 טיפולים בשנה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "מרפאות תקשורת",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 13",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "13"
+                ],
+                "primary_extension": "13"
+              }
+            }
+          },
+          "אבחון וטיפול בהפרעות בליעה": {
+            "זהב": {
+              "discount": "85%",
+              "annual_limit": "",
+              "full_text": "85% הנחה, כולל בדיקת וידאופלורוסקופיה"
+            },
+            "כסף": {
+              "discount": "65%",
+              "annual_limit": "",
+              "full_text": "65% הנחה"
+            },
+            "ארד": {
+              "discount": "45%",
+              "annual_limit": "",
+              "full_text": "45% הנחה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "מרפאות תקשורת",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 13",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "13"
+                ],
+                "primary_extension": "13"
+              }
+            }
+          },
+          "טיפול בעיכוב התפתחותי": {
+            "זהב": {
+              "discount": "90%",
+              "annual_limit": "40",
+              "full_text": "90% הנחה, עד 40 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "70%",
+              "annual_limit": "30",
+              "full_text": "70% הנחה, עד 30 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "50%",
+              "annual_limit": "20",
+              "full_text": "50% הנחה, עד 20 טיפולים בשנה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "מרפאות תקשורת",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 13",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "13"
+                ],
+                "primary_extension": "13"
+              }
+            }
+          },
+          "שיקום שמיעה": {
+            "זהב": {
+              "discount": "80%",
+              "annual_limit": "",
+              "full_text": "80% הנחה, כולל התאמת מכשירי שמיעה"
+            },
+            "כסף": {
+              "discount": "60%",
+              "annual_limit": "",
+              "full_text": "60% הנחה"
+            },
+            "ארד": {
+              "discount": "40%",
+              "annual_limit": "",
+              "full_text": "40% הנחה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "מרפאות תקשורת",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 13",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "13"
+                ],
+                "primary_extension": "13"
+              }
+            }
+          }
+        }
+      },
+      "מרפאות שיניים": {
+        "title": "מרפאות שיניים",
+        "treatments": {
+          "בדיקות וניקוי שיניים": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם פעמיים בשנה, תור תוך 48 שעות"
+            },
+            "כסף": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם פעם בשנה, תור תוך שבוע"
+            },
+            "ארד": {
+              "discount": "30%",
+              "annual_limit": "",
+              "full_text": "30% הנחה, תור רגיל"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "מרפאות שיניים",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 1",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "1"
+                ],
+                "primary_extension": "1"
+              }
+            }
+          },
+          "סתימות": {
+            "זהב": {
+              "discount": "80%",
+              "annual_limit": "",
+              "full_text": "80% הנחה, חומרים מתקדמים"
+            },
+            "כסף": {
+              "discount": "50%",
+              "annual_limit": "",
+              "full_text": "50% הנחה"
+            },
+            "ארד": {
+              "discount": "20%",
+              "annual_limit": "",
+              "full_text": "20% הנחה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "מרפאות שיניים",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 1",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "1"
+                ],
+                "primary_extension": "1"
+              }
+            }
+          },
+          "טיפולי שורש": {
+            "זהב": {
+              "discount": "70%",
+              "annual_limit": "",
+              "full_text": "70% הנחה, כולל צילומי רנטגן"
+            },
+            "כסף": {
+              "discount": "40%",
+              "annual_limit": "",
+              "full_text": "40% הנחה"
+            },
+            "ארד": {
+              "discount": "15%",
+              "annual_limit": "",
+              "full_text": "15% הנחה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "מרפאות שיניים",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 1",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "1"
+                ],
+                "primary_extension": "1"
+              }
+            }
+          },
+          "כתרים ושתלים": {
+            "זהב": {
+              "discount": "60%",
+              "annual_limit": "",
+              "full_text": "60% הנחה, אחריות ל-5 שנים"
+            },
+            "כסף": {
+              "discount": "35%",
+              "annual_limit": "",
+              "full_text": "35% הנחה, אחריות ל-3 שנים"
+            },
+            "ארד": {
+              "discount": "10%",
+              "annual_limit": "",
+              "full_text": "10% הנחה, אחריות לשנה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "מרפאות שיניים",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 1",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "1"
+                ],
+                "primary_extension": "1"
+              }
+            }
+          },
+          "יישור שיניים": {
+            "זהב": {
+              "discount": "50%",
+              "annual_limit": "",
+              "full_text": "50% הנחה, כולל רטנציה"
+            },
+            "כסף": {
+              "discount": "30%",
+              "annual_limit": "",
+              "full_text": "30% הנחה"
+            },
+            "ארד": {
+              "discount": "5%",
+              "annual_limit": "",
+              "full_text": "5% הנחה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "מרפאות שיניים",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 1",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "1"
+                ],
+                "primary_extension": "1"
+              }
+            }
+          },
+          "טיפולים קוסמטיים": {
+            "זהב": {
+              "discount": "40%",
+              "annual_limit": "",
+              "full_text": "40% הנחה, כולל הלבנה"
+            },
+            "כסף": {
+              "discount": "25%",
+              "annual_limit": "",
+              "full_text": "25% הנחה"
+            },
+            "ארד": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "ללא הנחה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "מרפאות שיניים",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 1",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "1"
+                ],
+                "primary_extension": "1"
+              }
+            }
+          }
+        }
+      },
+      "אופטומטריה": {
+        "title": "אופטומטריה",
+        "treatments": {
+          "בדיקות ראייה": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם פעם בשנה, כולל בדיקת לחץ תוך עיני"
+            },
+            "כסף": {
+              "discount": "50%",
+              "annual_limit": "",
+              "full_text": "50% הנחה על בדיקה שנתית"
+            },
+            "ארד": {
+              "discount": "25%",
+              "annual_limit": "",
+              "full_text": "25% הנחה על בדיקה שנתית"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "אופטומטריה",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 4",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "4"
+                ],
+                "primary_extension": "4"
+              }
+            }
+          },
+          "משקפי ראייה": {
+            "זהב": {
+              "discount": "70%",
+              "annual_limit": "",
+              "full_text": "70% הנחה עד 1000 ₪, החלפה כל שנתיים"
+            },
+            "כסף": {
+              "discount": "50%",
+              "annual_limit": "",
+              "full_text": "50% הנחה עד 700 ₪, החלפה כל 3 שנים"
+            },
+            "ארד": {
+              "discount": "30%",
+              "annual_limit": "",
+              "full_text": "30% הנחה עד 500 ₪, החלפה כל 4 שנים"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "אופטומטריה",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 4",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "4"
+                ],
+                "primary_extension": "4"
+              }
+            }
+          },
+          "עדשות מגע": {
+            "זהב": {
+              "discount": "60%",
+              "annual_limit": "",
+              "full_text": "60% הנחה, כולל ערכת טיפול שנתית"
+            },
+            "כסף": {
+              "discount": "40%",
+              "annual_limit": "",
+              "full_text": "40% הנחה"
+            },
+            "ארד": {
+              "discount": "20%",
+              "annual_limit": "",
+              "full_text": "20% הנחה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "אופטומטריה",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 4",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "4"
+                ],
+                "primary_extension": "4"
+              }
+            }
+          },
+          "טיפולים לתיקון ראייה": {
+            "זהב": {
+              "discount": "50%",
+              "annual_limit": "",
+              "full_text": "50% הנחה על ניתוח לייזר, כולל בדיקות מקדימות"
+            },
+            "כסף": {
+              "discount": "30%",
+              "annual_limit": "",
+              "full_text": "30% הנחה על ניתוח לייזר"
+            },
+            "ארד": {
+              "discount": "15%",
+              "annual_limit": "",
+              "full_text": "15% הנחה על ניתוח לייזר"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "אופטומטריה",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 4",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "4"
+                ],
+                "primary_extension": "4"
+              }
+            }
+          },
+          "אביזרי ראייה מיוחדים": {
+            "זהב": {
+              "discount": "70%",
+              "annual_limit": "",
+              "full_text": "70% הנחה על מכשירי ראייה ירודה, השאלת ציוד לניסיון"
+            },
+            "כסף": {
+              "discount": "50%",
+              "annual_limit": "",
+              "full_text": "50% הנחה על מכשירי ראייה ירודה"
+            },
+            "ארד": {
+              "discount": "30%",
+              "annual_limit": "",
+              "full_text": "30% הנחה על מכשירי ראייה ירודה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "אופטומטריה",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 4",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "4"
+                ],
+                "primary_extension": "4"
+              }
+            }
+          },
+          "טיפול בילדים": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם עד גיל 18, כולל טיפולי עין עצלה"
+            },
+            "כסף": {
+              "discount": "50%",
+              "annual_limit": "",
+              "full_text": "חינם עד גיל 16, 50% הנחה על טיפולי עין עצלה"
+            },
+            "ארד": {
+              "discount": "30%",
+              "annual_limit": "",
+              "full_text": "חינם עד גיל 14, 30% הנחה על טיפולי עין עצלה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "אופטומטריה",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 4",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "4"
+                ],
+                "primary_extension": "4"
+              }
+            }
+          }
+        }
+      },
+      "הריון": {
+        "title": "הריון",
+        "treatments": {
+          "מעקב הריון": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל בחירת רופא מומחה"
+            },
+            "כסף": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, רופא קופה"
+            },
+            "ארד": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, מיילדת או רופא קופה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "הריון",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 16",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "16"
+                ],
+                "primary_extension": "16"
+              }
+            }
+          },
+          "בדיקות סקר גנטיות": {
+            "זהב": {
+              "discount": "90%",
+              "annual_limit": "",
+              "full_text": "90% הנחה, כולל ייעוץ גנטי"
+            },
+            "כסף": {
+              "discount": "70%",
+              "annual_limit": "",
+              "full_text": "70% הנחה"
+            },
+            "ארד": {
+              "discount": "50%",
+              "annual_limit": "",
+              "full_text": "50% הנחה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "הריון",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 16",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "16"
+                ],
+                "primary_extension": "16"
+              }
+            }
+          },
+          "סקירות מערכות": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל סקירה מוקדמת ומאוחרת"
+            },
+            "כסף": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, סקירה מאוחרת"
+            },
+            "ארד": {
+              "discount": "50%",
+              "annual_limit": "",
+              "full_text": "50% הנחה על סקירה מאוחרת"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "הריון",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 16",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "16"
+                ],
+                "primary_extension": "16"
+              }
+            }
+          },
+          "קורס הכנה ללידה": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל סיור בחדר לידה"
+            },
+            "כסף": {
+              "discount": "50%",
+              "annual_limit": "",
+              "full_text": "50% הנחה"
+            },
+            "ארד": {
+              "discount": "25%",
+              "annual_limit": "",
+              "full_text": "25% הנחה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "הריון",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 16",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "16"
+                ],
+                "primary_extension": "16"
+              }
+            }
+          },
+          "ייעוץ תזונתי": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "5 פגישות חינם, כולל תוכנית אישית"
+            },
+            "כסף": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "3 פגישות חינם"
+            },
+            "ארד": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "פגישה אחת חינם"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "הריון",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 16",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "16"
+                ],
+                "primary_extension": "16"
+              }
+            }
+          },
+          "טיפול בסיבוכי הריון": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "90% כיסוי, כולל אשפוז בית במקרה הצורך"
+            },
+            "כסף": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "70% כיסוי"
+            },
+            "ארד": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "50% כיסוי"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "הריון",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 16",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "16"
+                ],
+                "primary_extension": "16"
+              }
+            }
+          }
+        }
+      },
+      "סדנאות בריאות": {
+        "title": "סדנאות בריאות",
+        "treatments": {
+          "הפסקת עישון": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל טיפול תרופתי"
+            },
+            "כסף": {
+              "discount": "50%",
+              "annual_limit": "",
+              "full_text": "50% הנחה, 25% הנחה על טיפול תרופתי"
+            },
+            "ארד": {
+              "discount": "25%",
+              "annual_limit": "",
+              "full_text": "25% הנחה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "סדנאות בריאות",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 7",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "7"
+                ],
+                "primary_extension": "7"
+              }
+            }
+          },
+          "תזונה נכונה": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל 3 פגישות אישיות עם דיאטנית"
+            },
+            "כסף": {
+              "discount": "70%",
+              "annual_limit": "",
+              "full_text": "70% הנחה, פגישה אחת עם דיאטנית"
+            },
+            "ארד": {
+              "discount": "40%",
+              "annual_limit": "",
+              "full_text": "40% הנחה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "סדנאות בריאות",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 7",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "7"
+                ],
+                "primary_extension": "7"
+              }
+            }
+          },
+          "פעילות גופנית": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל מנוי לחודש למכון כושר"
+            },
+            "כסף": {
+              "discount": "60%",
+              "annual_limit": "",
+              "full_text": "60% הנחה"
+            },
+            "ארד": {
+              "discount": "30%",
+              "annual_limit": "",
+              "full_text": "30% הנחה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "סדנאות בריאות",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 7",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "7"
+                ],
+                "primary_extension": "7"
+              }
+            }
+          },
+          "ניהול מתח": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל 10 מפגשי מדיטציה"
+            },
+            "כסף": {
+              "discount": "65%",
+              "annual_limit": "",
+              "full_text": "65% הנחה, 5 מפגשי מדיטציה"
+            },
+            "ארד": {
+              "discount": "35%",
+              "annual_limit": "",
+              "full_text": "35% הנחה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "סדנאות בריאות",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 7",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "7"
+                ],
+                "primary_extension": "7"
+              }
+            }
+          },
+          "סוכרת": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל מד סוכר רציף לחודש"
+            },
+            "כסף": {
+              "discount": "75%",
+              "annual_limit": "",
+              "full_text": "75% הנחה"
+            },
+            "ארד": {
+              "discount": "50%",
+              "annual_limit": "",
+              "full_text": "50% הנחה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "סדנאות בריאות",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 7",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "7"
+                ],
+                "primary_extension": "7"
+              }
+            }
+          },
+          "הריון ולידה": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל קורס החייאת תינוקות"
+            },
+            "כסף": {
+              "discount": "70%",
+              "annual_limit": "",
+              "full_text": "70% הנחה"
+            },
+            "ארד": {
+              "discount": "40%",
+              "annual_limit": "",
+              "full_text": "40% הנחה"
+            },
+            "contacts": {
+              "מכבי": {
+                "service_category": "סדנאות בריאות",
+                "raw_contact_line": "3555* או 1-700-50-53-53 שלוחה 7",
+                "phones": [
+                  "3555",
+                  "1-700-50-53-53"
+                ],
+                "primary_phone": "3555",
+                "extensions": [
+                  "7"
+                ],
+                "primary_extension": "7"
+              }
+            }
+          }
+        }
+      }
+    },
+    "מאוחדת": {
+      "רפואה משלימה (רפואה אלטרנטיבית)": {
+        "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+        "treatments": {
+          "דיקור סיני (אקופונקטורה)": {
+            "זהב": {
+              "discount": "75%",
+              "annual_limit": "18",
+              "full_text": "75% הנחה, עד 18 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "55%",
+              "annual_limit": "10",
+              "full_text": "55% הנחה, עד 10 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "35%",
+              "annual_limit": "6",
+              "full_text": "35% הנחה, עד 6 טיפולים בשנה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "רפואה משלימה (רפואה אלטרנטיבית)",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 11",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "11"
+                ],
+                "primary_extension": "11"
+              }
+            }
+          },
+          "שיאצו": {
+            "זהב": {
+              "discount": "70%",
+              "annual_limit": "12",
+              "full_text": "70% הנחה, עד 12 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "50%",
+              "annual_limit": "8",
+              "full_text": "50% הנחה, עד 8 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "30%",
+              "annual_limit": "5",
+              "full_text": "30% הנחה, עד 5 טיפולים בשנה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "רפואה משלימה (רפואה אלטרנטיבית)",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 11",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "11"
+                ],
+                "primary_extension": "11"
+              }
+            }
+          },
+          "רפלקסולוגיה": {
+            "זהב": {
+              "discount": "65%",
+              "annual_limit": "10",
+              "full_text": "65% הנחה, עד 10 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "45%",
+              "annual_limit": "7",
+              "full_text": "45% הנחה, עד 7 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "25%",
+              "annual_limit": "4",
+              "full_text": "25% הנחה, עד 4 טיפולים בשנה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "רפואה משלימה (רפואה אלטרנטיבית)",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 11",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "11"
+                ],
+                "primary_extension": "11"
+              }
+            }
+          },
+          "נטורופתיה": {
+            "זהב": {
+              "discount": "75%",
+              "annual_limit": "14",
+              "full_text": "75% הנחה, עד 14 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "55%",
+              "annual_limit": "9",
+              "full_text": "55% הנחה, עד 9 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "35%",
+              "annual_limit": "5",
+              "full_text": "35% הנחה, עד 5 טיפולים בשנה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "רפואה משלימה (רפואה אלטרנטיבית)",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 11",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "11"
+                ],
+                "primary_extension": "11"
+              }
+            }
+          },
+          "הומאופתיה": {
+            "זהב": {
+              "discount": "70%",
+              "annual_limit": "10",
+              "full_text": "70% הנחה, עד 10 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "50%",
+              "annual_limit": "7",
+              "full_text": "50% הנחה, עד 7 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "30%",
+              "annual_limit": "4",
+              "full_text": "30% הנחה, עד 4 טיפולים בשנה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "רפואה משלימה (רפואה אלטרנטיבית)",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 11",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "11"
+                ],
+                "primary_extension": "11"
+              }
+            }
+          },
+          "כירופרקטיקה": {
+            "זהב": {
+              "discount": "80%",
+              "annual_limit": "16",
+              "full_text": "80% הנחה, עד 16 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "60%",
+              "annual_limit": "10",
+              "full_text": "60% הנחה, עד 10 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "40%",
+              "annual_limit": "6",
+              "full_text": "40% הנחה, עד 6 טיפולים בשנה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "רפואה משלימה (רפואה אלטרנטיבית)",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 11",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "11"
+                ],
+                "primary_extension": "11"
+              }
+            }
+          }
+        }
+      },
+      "מרפאות תקשורת": {
+        "title": "מרפאות תקשורת",
+        "treatments": {
+          "אבחון הפרעות שפה ודיבור": {
+            "זהב": {
+              "discount": "85%",
+              "annual_limit": "",
+              "full_text": "85% הנחה, כולל ייעוץ להורים"
+            },
+            "כסף": {
+              "discount": "65%",
+              "annual_limit": "",
+              "full_text": "65% הנחה"
+            },
+            "ארד": {
+              "discount": "45%",
+              "annual_limit": "",
+              "full_text": "45% הנחה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "מרפאות תקשורת",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 14",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "14"
+                ],
+                "primary_extension": "14"
+              }
+            }
+          },
+          "טיפול בגמגום": {
+            "זהב": {
+              "discount": "75%",
+              "annual_limit": "25",
+              "full_text": "75% הנחה, עד 25 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "55%",
+              "annual_limit": "18",
+              "full_text": "55% הנחה, עד 18 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "35%",
+              "annual_limit": "10",
+              "full_text": "35% הנחה, עד 10 טיפולים בשנה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "מרפאות תקשורת",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 14",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "14"
+                ],
+                "primary_extension": "14"
+              }
+            }
+          },
+          "טיפול בהפרעות קול": {
+            "זהב": {
+              "discount": "70%",
+              "annual_limit": "18",
+              "full_text": "70% הנחה, עד 18 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "50%",
+              "annual_limit": "12",
+              "full_text": "50% הנחה, עד 12 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "30%",
+              "annual_limit": "8",
+              "full_text": "30% הנחה, עד 8 טיפולים בשנה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "מרפאות תקשורת",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 14",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "14"
+                ],
+                "primary_extension": "14"
+              }
+            }
+          },
+          "אבחון וטיפול בהפרעות בליעה": {
+            "זהב": {
+              "discount": "80%",
+              "annual_limit": "",
+              "full_text": "80% הנחה, כולל ייעוץ תזונתי"
+            },
+            "כסף": {
+              "discount": "60%",
+              "annual_limit": "",
+              "full_text": "60% הנחה"
+            },
+            "ארד": {
+              "discount": "40%",
+              "annual_limit": "",
+              "full_text": "40% הנחה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "מרפאות תקשורת",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 14",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "14"
+                ],
+                "primary_extension": "14"
+              }
+            }
+          },
+          "טיפול בעיכוב התפתחותי": {
+            "זהב": {
+              "discount": "85%",
+              "annual_limit": "35",
+              "full_text": "85% הנחה, עד 35 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "65%",
+              "annual_limit": "25",
+              "full_text": "65% הנחה, עד 25 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "45%",
+              "annual_limit": "18",
+              "full_text": "45% הנחה, עד 18 טיפולים בשנה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "מרפאות תקשורת",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 14",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "14"
+                ],
+                "primary_extension": "14"
+              }
+            }
+          },
+          "שיקום שמיעה": {
+            "זהב": {
+              "discount": "75%",
+              "annual_limit": "",
+              "full_text": "75% הנחה, כולל תמיכה טכנית"
+            },
+            "כסף": {
+              "discount": "55%",
+              "annual_limit": "",
+              "full_text": "55% הנחה"
+            },
+            "ארד": {
+              "discount": "35%",
+              "annual_limit": "",
+              "full_text": "35% הנחה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "מרפאות תקשורת",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 14",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "14"
+                ],
+                "primary_extension": "14"
+              }
+            }
+          }
+        }
+      },
+      "מרפאות שיניים": {
+        "title": "מרפאות שיניים",
+        "treatments": {
+          "בדיקות וניקוי שיניים": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם כל רבעון, תור ביום"
+            },
+            "כסף": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם פעמיים בשנה, תור תוך 5 ימים"
+            },
+            "ארד": {
+              "discount": "25%",
+              "annual_limit": "",
+              "full_text": "25% הנחה, תור תוך שבועיים"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "מרפאות שיניים",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 2",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "2"
+                ],
+                "primary_extension": "2"
+              }
+            }
+          },
+          "סתימות": {
+            "זהב": {
+              "discount": "75%",
+              "annual_limit": "",
+              "full_text": "75% הנחה, חומרים פרימיום"
+            },
+            "כסף": {
+              "discount": "45%",
+              "annual_limit": "",
+              "full_text": "45% הנחה"
+            },
+            "ארד": {
+              "discount": "15%",
+              "annual_limit": "",
+              "full_text": "15% הנחה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "מרפאות שיניים",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 2",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "2"
+                ],
+                "primary_extension": "2"
+              }
+            }
+          },
+          "טיפולי שורש": {
+            "זהב": {
+              "discount": "65%",
+              "annual_limit": "",
+              "full_text": "65% הנחה, טיפול ביום אחד"
+            },
+            "כסף": {
+              "discount": "35%",
+              "annual_limit": "",
+              "full_text": "35% הנחה"
+            },
+            "ארד": {
+              "discount": "10%",
+              "annual_limit": "",
+              "full_text": "10% הנחה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "מרפאות שיניים",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 2",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "2"
+                ],
+                "primary_extension": "2"
+              }
+            }
+          },
+          "כתרים ושתלים": {
+            "זהב": {
+              "discount": "55%",
+              "annual_limit": "",
+              "full_text": "55% הנחה, אחריות ל-7 שנים"
+            },
+            "כסף": {
+              "discount": "30%",
+              "annual_limit": "",
+              "full_text": "30% הנחה, אחריות ל-4 שנים"
+            },
+            "ארד": {
+              "discount": "5%",
+              "annual_limit": "",
+              "full_text": "5% הנחה, אחריות לשנתיים"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "מרפאות שיניים",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 2",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "2"
+                ],
+                "primary_extension": "2"
+              }
+            }
+          },
+          "יישור שיניים": {
+            "זהב": {
+              "discount": "45%",
+              "annual_limit": "",
+              "full_text": "45% הנחה, כולל מכשיר שקוף"
+            },
+            "כסף": {
+              "discount": "25%",
+              "annual_limit": "",
+              "full_text": "25% הנחה"
+            },
+            "ארד": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "ללא הנחה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "מרפאות שיניים",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 2",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "2"
+                ],
+                "primary_extension": "2"
+              }
+            }
+          },
+          "טיפולים קוסמטיים": {
+            "זהב": {
+              "discount": "35%",
+              "annual_limit": "",
+              "full_text": "35% הנחה, כולל ציפויים"
+            },
+            "כסף": {
+              "discount": "20%",
+              "annual_limit": "",
+              "full_text": "20% הנחה"
+            },
+            "ארד": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "ללא הנחה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "מרפאות שיניים",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 2",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "2"
+                ],
+                "primary_extension": "2"
+              }
+            }
+          }
+        }
+      },
+      "אופטומטריה": {
+        "title": "אופטומטריה",
+        "treatments": {
+          "בדיקות ראייה": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם פעמיים בשנה, כולל מיפוי רשתית"
+            },
+            "כסף": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם פעם בשנה"
+            },
+            "ארד": {
+              "discount": "40%",
+              "annual_limit": "",
+              "full_text": "40% הנחה על בדיקה שנתית"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "אופטומטריה",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 5",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "5"
+                ],
+                "primary_extension": "5"
+              }
+            }
+          },
+          "משקפי ראייה": {
+            "זהב": {
+              "discount": "65%",
+              "annual_limit": "",
+              "full_text": "65% הנחה עד 1200 ₪, החלפה כל שנה וחצי"
+            },
+            "כסף": {
+              "discount": "45%",
+              "annual_limit": "",
+              "full_text": "45% הנחה עד 800 ₪, החלפה כל 3 שנים"
+            },
+            "ארד": {
+              "discount": "25%",
+              "annual_limit": "",
+              "full_text": "25% הנחה עד 600 ₪, החלפה כל 4 שנים"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "אופטומטריה",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 5",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "5"
+                ],
+                "primary_extension": "5"
+              }
+            }
+          },
+          "עדשות מגע": {
+            "זהב": {
+              "discount": "55%",
+              "annual_limit": "",
+              "full_text": "55% הנחה, כולל בדיקת התאמה חינם"
+            },
+            "כסף": {
+              "discount": "35%",
+              "annual_limit": "",
+              "full_text": "35% הנחה"
+            },
+            "ארד": {
+              "discount": "15%",
+              "annual_limit": "",
+              "full_text": "15% הנחה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "אופטומטריה",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 5",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "5"
+                ],
+                "primary_extension": "5"
+              }
+            }
+          },
+          "טיפולים לתיקון ראייה": {
+            "זהב": {
+              "discount": "45%",
+              "annual_limit": "",
+              "full_text": "45% הנחה על ניתוח לייזר, כולל טיפולי המשך"
+            },
+            "כסף": {
+              "discount": "25%",
+              "annual_limit": "",
+              "full_text": "25% הנחה על ניתוח לייזר"
+            },
+            "ארד": {
+              "discount": "10%",
+              "annual_limit": "",
+              "full_text": "10% הנחה על ניתוח לייזר"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "אופטומטריה",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 5",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "5"
+                ],
+                "primary_extension": "5"
+              }
+            }
+          },
+          "אביזרי ראייה מיוחדים": {
+            "זהב": {
+              "discount": "65%",
+              "annual_limit": "",
+              "full_text": "65% הנחה על מכשירי ראייה ירודה, כולל הדרכה אישית"
+            },
+            "כסף": {
+              "discount": "45%",
+              "annual_limit": "",
+              "full_text": "45% הנחה על מכשירי ראייה ירודה"
+            },
+            "ארד": {
+              "discount": "25%",
+              "annual_limit": "",
+              "full_text": "25% הנחה על מכשירי ראייה ירודה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "אופטומטריה",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 5",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "5"
+                ],
+                "primary_extension": "5"
+              }
+            }
+          },
+          "טיפול בילדים": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם עד גיל 18, כולל אימוני ראייה"
+            },
+            "כסף": {
+              "discount": "45%",
+              "annual_limit": "",
+              "full_text": "חינם עד גיל 16, 45% הנחה על אימוני ראייה"
+            },
+            "ארד": {
+              "discount": "25%",
+              "annual_limit": "",
+              "full_text": "חינם עד גיל 14, 25% הנחה על אימוני ראייה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "אופטומטריה",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 5",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "5"
+                ],
+                "primary_extension": "5"
+              }
+            }
+          }
+        }
+      },
+      "הריון": {
+        "title": "הריון",
+        "treatments": {
+          "מעקב הריון": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל מעקב אישי דיגיטלי"
+            },
+            "כסף": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, רופא קופה"
+            },
+            "ארד": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, מיילדת או רופא קופה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "הריון",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 17",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "17"
+                ],
+                "primary_extension": "17"
+              }
+            }
+          },
+          "בדיקות סקר גנטיות": {
+            "זהב": {
+              "discount": "85%",
+              "annual_limit": "",
+              "full_text": "85% הנחה, כולל בדיקות מתקדמות"
+            },
+            "כסף": {
+              "discount": "65%",
+              "annual_limit": "",
+              "full_text": "65% הנחה"
+            },
+            "ארד": {
+              "discount": "45%",
+              "annual_limit": "",
+              "full_text": "45% הנחה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "הריון",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 17",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "17"
+                ],
+                "primary_extension": "17"
+              }
+            }
+          },
+          "סקירות מערכות": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל סקירה תלת-ממדית"
+            },
+            "כסף": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, סקירה רגילה"
+            },
+            "ארד": {
+              "discount": "40%",
+              "annual_limit": "",
+              "full_text": "40% הנחה על סקירה רגילה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "הריון",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 17",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "17"
+                ],
+                "primary_extension": "17"
+              }
+            }
+          },
+          "קורס הכנה ללידה": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל קורס החייאת תינוקות"
+            },
+            "כסף": {
+              "discount": "60%",
+              "annual_limit": "",
+              "full_text": "60% הנחה"
+            },
+            "ארד": {
+              "discount": "30%",
+              "annual_limit": "",
+              "full_text": "30% הנחה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "הריון",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 17",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "17"
+                ],
+                "primary_extension": "17"
+              }
+            }
+          },
+          "ייעוץ תזונתי": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "6 פגישות חינם, כולל ערכת תוספי תזונה"
+            },
+            "כסף": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "4 פגישות חינם"
+            },
+            "ארד": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "2 פגישות חינם"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "הריון",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 17",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "17"
+                ],
+                "primary_extension": "17"
+              }
+            }
+          },
+          "טיפול בסיבוכי הריון": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "85% כיסוי, כולל ליווי אחות מומחית"
+            },
+            "כסף": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "65% כיסוי"
+            },
+            "ארד": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "45% כיסוי"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "הריון",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 17",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "17"
+                ],
+                "primary_extension": "17"
+              }
+            }
+          }
+        }
+      },
+      "סדנאות בריאות": {
+        "title": "סדנאות בריאות",
+        "treatments": {
+          "הפסקת עישון": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל מעקב אישי לשנה"
+            },
+            "כסף": {
+              "discount": "60%",
+              "annual_limit": "",
+              "full_text": "60% הנחה"
+            },
+            "ארד": {
+              "discount": "30%",
+              "annual_limit": "",
+              "full_text": "30% הנחה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "סדנאות בריאות",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 8",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "8"
+                ],
+                "primary_extension": "8"
+              }
+            }
+          },
+          "תזונה נכונה": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל תוכנית תזונה אישית"
+            },
+            "כסף": {
+              "discount": "65%",
+              "annual_limit": "",
+              "full_text": "65% הנחה"
+            },
+            "ארד": {
+              "discount": "35%",
+              "annual_limit": "",
+              "full_text": "35% הנחה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "סדנאות בריאות",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 8",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "8"
+                ],
+                "primary_extension": "8"
+              }
+            }
+          },
+          "פעילות גופנית": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל 5 אימונים אישיים"
+            },
+            "כסף": {
+              "discount": "55%",
+              "annual_limit": "",
+              "full_text": "55% הנחה, 2 אימונים אישיים"
+            },
+            "ארד": {
+              "discount": "25%",
+              "annual_limit": "",
+              "full_text": "25% הנחה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "סדנאות בריאות",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 8",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "8"
+                ],
+                "primary_extension": "8"
+              }
+            }
+          },
+          "ניהול מתח": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל סדנת יוגה שבועית לחודשיים"
+            },
+            "כסף": {
+              "discount": "70%",
+              "annual_limit": "",
+              "full_text": "70% הנחה"
+            },
+            "ארד": {
+              "discount": "40%",
+              "annual_limit": "",
+              "full_text": "40% הנחה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "סדנאות בריאות",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 8",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "8"
+                ],
+                "primary_extension": "8"
+              }
+            }
+          },
+          "סוכרת": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל ליווי אישי של אחות סוכרת"
+            },
+            "כסף": {
+              "discount": "70%",
+              "annual_limit": "",
+              "full_text": "70% הנחה"
+            },
+            "ארד": {
+              "discount": "45%",
+              "annual_limit": "",
+              "full_text": "45% הנחה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "סדנאות בריאות",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 8",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "8"
+                ],
+                "primary_extension": "8"
+              }
+            }
+          },
+          "הריון ולידה": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל 3 מפגשי ייעוץ הנקה"
+            },
+            "כסף": {
+              "discount": "65%",
+              "annual_limit": "",
+              "full_text": "65% הנחה, מפגש ייעוץ הנקה אחד"
+            },
+            "ארד": {
+              "discount": "35%",
+              "annual_limit": "",
+              "full_text": "35% הנחה"
+            },
+            "contacts": {
+              "מאוחדת": {
+                "service_category": "סדנאות בריאות",
+                "raw_contact_line": "3833* או 1-222-3833 שלוחה 8",
+                "phones": [
+                  "3833",
+                  "1-222-3833"
+                ],
+                "primary_phone": "3833",
+                "extensions": [
+                  "8"
+                ],
+                "primary_extension": "8"
+              }
+            }
+          }
+        }
+      }
+    },
+    "כללית": {
+      "רפואה משלימה (רפואה אלטרנטיבית)": {
+        "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+        "treatments": {
+          "דיקור סיני (אקופונקטורה)": {
+            "זהב": {
+              "discount": "80%",
+              "annual_limit": "16",
+              "full_text": "80% הנחה, עד 16 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "60%",
+              "annual_limit": "10",
+              "full_text": "60% הנחה, עד 10 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "40%",
+              "annual_limit": "6",
+              "full_text": "40% הנחה, עד 6 טיפולים בשנה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "רפואה משלימה (רפואה אלטרנטיבית)",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 12",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "12"
+                ],
+                "primary_extension": "12"
+              }
+            }
+          },
+          "שיאצו": {
+            "זהב": {
+              "discount": "75%",
+              "annual_limit": "14",
+              "full_text": "75% הנחה, עד 14 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "55%",
+              "annual_limit": "9",
+              "full_text": "55% הנחה, עד 9 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "35%",
+              "annual_limit": "5",
+              "full_text": "35% הנחה, עד 5 טיפולים בשנה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "רפואה משלימה (רפואה אלטרנטיבית)",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 12",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "12"
+                ],
+                "primary_extension": "12"
+              }
+            }
+          },
+          "רפלקסולוגיה": {
+            "זהב": {
+              "discount": "70%",
+              "annual_limit": "12",
+              "full_text": "70% הנחה, עד 12 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "50%",
+              "annual_limit": "8",
+              "full_text": "50% הנחה, עד 8 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "30%",
+              "annual_limit": "5",
+              "full_text": "30% הנחה, עד 5 טיפולים בשנה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "רפואה משלימה (רפואה אלטרנטיבית)",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 12",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "12"
+                ],
+                "primary_extension": "12"
+              }
+            }
+          },
+          "נטורופתיה": {
+            "זהב": {
+              "discount": "80%",
+              "annual_limit": "12",
+              "full_text": "80% הנחה, עד 12 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "60%",
+              "annual_limit": "8",
+              "full_text": "60% הנחה, עד 8 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "40%",
+              "annual_limit": "5",
+              "full_text": "40% הנחה, עד 5 טיפולים בשנה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "רפואה משלימה (רפואה אלטרנטיבית)",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 12",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "12"
+                ],
+                "primary_extension": "12"
+              }
+            }
+          },
+          "הומאופתיה": {
+            "זהב": {
+              "discount": "75%",
+              "annual_limit": "12",
+              "full_text": "75% הנחה, עד 12 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "55%",
+              "annual_limit": "8",
+              "full_text": "55% הנחה, עד 8 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "35%",
+              "annual_limit": "5",
+              "full_text": "35% הנחה, עד 5 טיפולים בשנה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "רפואה משלימה (רפואה אלטרנטיבית)",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 12",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "12"
+                ],
+                "primary_extension": "12"
+              }
+            }
+          },
+          "כירופרקטיקה": {
+            "זהב": {
+              "discount": "85%",
+              "annual_limit": "14",
+              "full_text": "85% הנחה, עד 14 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "65%",
+              "annual_limit": "9",
+              "full_text": "65% הנחה, עד 9 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "45%",
+              "annual_limit": "6",
+              "full_text": "45% הנחה, עד 6 טיפולים בשנה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "רפואה משלימה (רפואה אלטרנטיבית)",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 12",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "12"
+                ],
+                "primary_extension": "12"
+              }
+            }
+          }
+        }
+      },
+      "מרפאות תקשורת": {
+        "title": "מרפאות תקשורת",
+        "treatments": {
+          "אבחון הפרעות שפה ודיבור": {
+            "זהב": {
+              "discount": "95%",
+              "annual_limit": "",
+              "full_text": "95% הנחה, כולל תוכנית טיפול"
+            },
+            "כסף": {
+              "discount": "75%",
+              "annual_limit": "",
+              "full_text": "75% הנחה"
+            },
+            "ארד": {
+              "discount": "55%",
+              "annual_limit": "",
+              "full_text": "55% הנחה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "מרפאות תקשורת",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 15",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "15"
+                ],
+                "primary_extension": "15"
+              }
+            }
+          },
+          "טיפול בגמגום": {
+            "זהב": {
+              "discount": "85%",
+              "annual_limit": "28",
+              "full_text": "85% הנחה, עד 28 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "65%",
+              "annual_limit": "22",
+              "full_text": "65% הנחה, עד 22 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "45%",
+              "annual_limit": "15",
+              "full_text": "45% הנחה, עד 15 טיפולים בשנה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "מרפאות תקשורת",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 15",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "15"
+                ],
+                "primary_extension": "15"
+              }
+            }
+          },
+          "טיפול בהפרעות קול": {
+            "זהב": {
+              "discount": "80%",
+              "annual_limit": "22",
+              "full_text": "80% הנחה, עד 22 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "60%",
+              "annual_limit": "16",
+              "full_text": "60% הנחה, עד 16 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "40%",
+              "annual_limit": "12",
+              "full_text": "40% הנחה, עד 12 טיפולים בשנה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "מרפאות תקשורת",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 15",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "15"
+                ],
+                "primary_extension": "15"
+              }
+            }
+          },
+          "אבחון וטיפול בהפרעות בליעה": {
+            "זהב": {
+              "discount": "90%",
+              "annual_limit": "",
+              "full_text": "90% הנחה, כולל טיפול ביתי"
+            },
+            "כסף": {
+              "discount": "70%",
+              "annual_limit": "",
+              "full_text": "70% הנחה"
+            },
+            "ארד": {
+              "discount": "50%",
+              "annual_limit": "",
+              "full_text": "50% הנחה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "מרפאות תקשורת",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 15",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "15"
+                ],
+                "primary_extension": "15"
+              }
+            }
+          },
+          "טיפול בעיכוב התפתחותי": {
+            "זהב": {
+              "discount": "95%",
+              "annual_limit": "45",
+              "full_text": "95% הנחה, עד 45 טיפולים בשנה"
+            },
+            "כסף": {
+              "discount": "75%",
+              "annual_limit": "35",
+              "full_text": "75% הנחה, עד 35 טיפולים בשנה"
+            },
+            "ארד": {
+              "discount": "55%",
+              "annual_limit": "25",
+              "full_text": "55% הנחה, עד 25 טיפולים בשנה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "מרפאות תקשורת",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 15",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "15"
+                ],
+                "primary_extension": "15"
+              }
+            }
+          },
+          "שיקום שמיעה": {
+            "זהב": {
+              "discount": "85%",
+              "annual_limit": "",
+              "full_text": "85% הנחה, כולל קבוצות תמיכה"
+            },
+            "כסף": {
+              "discount": "65%",
+              "annual_limit": "",
+              "full_text": "65% הנחה"
+            },
+            "ארד": {
+              "discount": "45%",
+              "annual_limit": "",
+              "full_text": "45% הנחה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "מרפאות תקשורת",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 15",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "15"
+                ],
+                "primary_extension": "15"
+              }
+            }
+          }
+        }
+      },
+      "מרפאות שיניים": {
+        "title": "מרפאות שיניים",
+        "treatments": {
+          "בדיקות וניקוי שיניים": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם כל חודש, קו חירום 24/7"
+            },
+            "כסף": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם פעם בשנה, שעות קליניקה מורחבות"
+            },
+            "ארד": {
+              "discount": "20%",
+              "annual_limit": "",
+              "full_text": "20% הנחה, שעות קליניקה רגילות"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "מרפאות שיניים",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 3",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "3"
+                ],
+                "primary_extension": "3"
+              }
+            }
+          },
+          "סתימות": {
+            "זהב": {
+              "discount": "70%",
+              "annual_limit": "",
+              "full_text": "70% הנחה, טכנולוגיה מתקדמת"
+            },
+            "כסף": {
+              "discount": "40%",
+              "annual_limit": "",
+              "full_text": "40% הנחה"
+            },
+            "ארד": {
+              "discount": "20%",
+              "annual_limit": "",
+              "full_text": "20% הנחה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "מרפאות שיניים",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 3",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "3"
+                ],
+                "primary_extension": "3"
+              }
+            }
+          },
+          "טיפולי שורש": {
+            "זהב": {
+              "discount": "60%",
+              "annual_limit": "",
+              "full_text": "60% הנחה, כולל טיפול לאחר מכן"
+            },
+            "כסף": {
+              "discount": "30%",
+              "annual_limit": "",
+              "full_text": "30% הנחה"
+            },
+            "ארד": {
+              "discount": "20%",
+              "annual_limit": "",
+              "full_text": "20% הנחה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "מרפאות שיניים",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 3",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "3"
+                ],
+                "primary_extension": "3"
+              }
+            }
+          },
+          "כתרים ושתלים": {
+            "זהב": {
+              "discount": "50%",
+              "annual_limit": "",
+              "full_text": "50% הנחה, אחריות ל-6 שנים"
+            },
+            "כסף": {
+              "discount": "25%",
+              "annual_limit": "",
+              "full_text": "25% הנחה, אחריות ל-3 שנים"
+            },
+            "ארד": {
+              "discount": "20%",
+              "annual_limit": "",
+              "full_text": "20% הנחה, אחריות לשנה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "מרפאות שיניים",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 3",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "3"
+                ],
+                "primary_extension": "3"
+              }
+            }
+          },
+          "יישור שיניים": {
+            "זהב": {
+              "discount": "40%",
+              "annual_limit": "",
+              "full_text": "40% הנחה, כולל ייעוץ אורתודונטי"
+            },
+            "כסף": {
+              "discount": "20%",
+              "annual_limit": "",
+              "full_text": "20% הנחה"
+            },
+            "ארד": {
+              "discount": "20%",
+              "annual_limit": "",
+              "full_text": "20% הנחה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "מרפאות שיניים",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 3",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "3"
+                ],
+                "primary_extension": "3"
+              }
+            }
+          },
+          "טיפולים קוסמטיים": {
+            "זהב": {
+              "discount": "30%",
+              "annual_limit": "",
+              "full_text": "30% הנחה, כולל שיחזור חרסינה"
+            },
+            "כסף": {
+              "discount": "15%",
+              "annual_limit": "",
+              "full_text": "15% הנחה"
+            },
+            "ארד": {
+              "discount": "20%",
+              "annual_limit": "",
+              "full_text": "20% הנחה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "מרפאות שיניים",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 3",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "3"
+                ],
+                "primary_extension": "3"
+              }
+            }
+          }
+        }
+      },
+      "אופטומטריה": {
+        "title": "אופטומטריה",
+        "treatments": {
+          "בדיקות ראייה": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם כל חצי שנה, כולל בדיקת שדה ראייה"
+            },
+            "כסף": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם פעם בשנה"
+            },
+            "ארד": {
+              "discount": "30%",
+              "annual_limit": "",
+              "full_text": "30% הנחה על בדיקה שנתית"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "אופטומטריה",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 6",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "6"
+                ],
+                "primary_extension": "6"
+              }
+            }
+          },
+          "משקפי ראייה": {
+            "זהב": {
+              "discount": "75%",
+              "annual_limit": "",
+              "full_text": "75% הנחה עד 900 ₪, החלפה כל שנתיים"
+            },
+            "כסף": {
+              "discount": "55%",
+              "annual_limit": "",
+              "full_text": "55% הנחה עד 650 ₪, החלפה כל 3 שנים"
+            },
+            "ארד": {
+              "discount": "35%",
+              "annual_limit": "",
+              "full_text": "35% הנחה עד 450 ₪, החלפה כל 4 שנים"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "אופטומטריה",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 6",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "6"
+                ],
+                "primary_extension": "6"
+              }
+            }
+          },
+          "עדשות מגע": {
+            "זהב": {
+              "discount": "65%",
+              "annual_limit": "",
+              "full_text": "65% הנחה, כולל עדשות ניסיון חינם"
+            },
+            "כסף": {
+              "discount": "45%",
+              "annual_limit": "",
+              "full_text": "45% הנחה"
+            },
+            "ארד": {
+              "discount": "25%",
+              "annual_limit": "",
+              "full_text": "25% הנחה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "אופטומטריה",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 6",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "6"
+                ],
+                "primary_extension": "6"
+              }
+            }
+          },
+          "טיפולים לתיקון ראייה": {
+            "זהב": {
+              "discount": "55%",
+              "annual_limit": "",
+              "full_text": "55% הנחה על ניתוח לייזר, כולל אחריות ל-5 שנים"
+            },
+            "כסף": {
+              "discount": "35%",
+              "annual_limit": "",
+              "full_text": "35% הנחה על ניתוח לייזר"
+            },
+            "ארד": {
+              "discount": "20%",
+              "annual_limit": "",
+              "full_text": "20% הנחה על ניתוח לייזר"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "אופטומטריה",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 6",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "6"
+                ],
+                "primary_extension": "6"
+              }
+            }
+          },
+          "אביזרי ראייה מיוחדים": {
+            "זהב": {
+              "discount": "75%",
+              "annual_limit": "",
+              "full_text": "75% הנחה על מכשירי ראייה ירודה, כולל תמיכה טכנית"
+            },
+            "כסף": {
+              "discount": "55%",
+              "annual_limit": "",
+              "full_text": "55% הנחה על מכשירי ראייה ירודה"
+            },
+            "ארד": {
+              "discount": "35%",
+              "annual_limit": "",
+              "full_text": "35% הנחה על מכשירי ראייה ירודה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "אופטומטריה",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 6",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "6"
+                ],
+                "primary_extension": "6"
+              }
+            }
+          },
+          "טיפול בילדים": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם עד גיל 18, כולל בדיקות התפתחות ראייה"
+            },
+            "כסף": {
+              "discount": "55%",
+              "annual_limit": "",
+              "full_text": "חינם עד גיל 16, 55% הנחה על בדיקות התפתחות ראייה"
+            },
+            "ארד": {
+              "discount": "35%",
+              "annual_limit": "",
+              "full_text": "חינם עד גיל 14, 35% הנחה על בדיקות התפתחות ראייה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "אופטומטריה",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 6",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "6"
+                ],
+                "primary_extension": "6"
+              }
+            }
+          }
+        }
+      },
+      "הריון": {
+        "title": "הריון",
+        "treatments": {
+          "מעקב הריון": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל ייעוץ טלפוני 24/7"
+            },
+            "כסף": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, רופא קופה"
+            },
+            "ארד": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, מיילדת או רופא קופה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "הריון",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 18",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "18"
+                ],
+                "primary_extension": "18"
+              }
+            }
+          },
+          "בדיקות סקר גנטיות": {
+            "זהב": {
+              "discount": "95%",
+              "annual_limit": "",
+              "full_text": "95% הנחה, כולל פענוח מורחב"
+            },
+            "כסף": {
+              "discount": "75%",
+              "annual_limit": "",
+              "full_text": "75% הנחה"
+            },
+            "ארד": {
+              "discount": "55%",
+              "annual_limit": "",
+              "full_text": "55% הנחה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "הריון",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 18",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "18"
+                ],
+                "primary_extension": "18"
+              }
+            }
+          },
+          "סקירות מערכות": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל צילום וידאו של הסקירה"
+            },
+            "כסף": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, סקירה רגילה"
+            },
+            "ארד": {
+              "discount": "60%",
+              "annual_limit": "",
+              "full_text": "60% הנחה על סקירה רגילה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "הריון",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 18",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "18"
+                ],
+                "primary_extension": "18"
+              }
+            }
+          },
+          "קורס הכנה ללידה": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל מפגש עם יועצת הנקה"
+            },
+            "כסף": {
+              "discount": "70%",
+              "annual_limit": "",
+              "full_text": "70% הנחה"
+            },
+            "ארד": {
+              "discount": "40%",
+              "annual_limit": "",
+              "full_text": "40% הנחה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "הריון",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 18",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "18"
+                ],
+                "primary_extension": "18"
+              }
+            }
+          },
+          "ייעוץ תזונתי": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "4 פגישות חינם, כולל ליווי דיגיטלי"
+            },
+            "כסף": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "2 פגישות חינם"
+            },
+            "ארד": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "פגישה אחת חינם"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "הריון",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 18",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "18"
+                ],
+                "primary_extension": "18"
+              }
+            }
+          },
+          "טיפול בסיבוכי הריון": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "95% כיסוי, כולל התייעצות עם מומחים"
+            },
+            "כסף": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "75% כיסוי"
+            },
+            "ארד": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "55% כיסוי"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "הריון",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 18",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "18"
+                ],
+                "primary_extension": "18"
+              }
+            }
+          }
+        }
+      },
+      "סדנאות בריאות": {
+        "title": "סדנאות בריאות",
+        "treatments": {
+          "הפסקת עישון": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל תמיכה קבוצתית מתמשכת"
+            },
+            "כסף": {
+              "discount": "70%",
+              "annual_limit": "",
+              "full_text": "70% הנחה"
+            },
+            "ארד": {
+              "discount": "40%",
+              "annual_limit": "",
+              "full_text": "40% הנחה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "סדנאות בריאות",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 9",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "9"
+                ],
+                "primary_extension": "9"
+              }
+            }
+          },
+          "תזונה נכונה": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל ליווי דיגיטלי לחצי שנה"
+            },
+            "כסף": {
+              "discount": "75%",
+              "annual_limit": "",
+              "full_text": "75% הנחה"
+            },
+            "ארד": {
+              "discount": "45%",
+              "annual_limit": "",
+              "full_text": "45% הנחה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "סדנאות בריאות",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 9",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "9"
+                ],
+                "primary_extension": "9"
+              }
+            }
+          },
+          "פעילות גופנית": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל ערכת אימון ביתית"
+            },
+            "כסף": {
+              "discount": "65%",
+              "annual_limit": "",
+              "full_text": "65% הנחה"
+            },
+            "ארד": {
+              "discount": "35%",
+              "annual_limit": "",
+              "full_text": "35% הנחה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "סדנאות בריאות",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 9",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "9"
+                ],
+                "primary_extension": "9"
+              }
+            }
+          },
+          "ניהול מתח": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל אפליקציית מיינדפולנס לשנה"
+            },
+            "כסף": {
+              "discount": "60%",
+              "annual_limit": "",
+              "full_text": "60% הנחה"
+            },
+            "ארד": {
+              "discount": "30%",
+              "annual_limit": "",
+              "full_text": "30% הנחה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "סדנאות בריאות",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 9",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "9"
+                ],
+                "primary_extension": "9"
+              }
+            }
+          },
+          "סוכרת": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל קורס בישול לסוכרתיים"
+            },
+            "כסף": {
+              "discount": "80%",
+              "annual_limit": "",
+              "full_text": "80% הנחה"
+            },
+            "ארד": {
+              "discount": "55%",
+              "annual_limit": "",
+              "full_text": "55% הנחה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "סדנאות בריאות",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 9",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "9"
+                ],
+                "primary_extension": "9"
+              }
+            }
+          },
+          "הריון ולידה": {
+            "זהב": {
+              "discount": "",
+              "annual_limit": "",
+              "full_text": "חינם, כולל סדנת עיסוי תינוקות"
+            },
+            "כסף": {
+              "discount": "75%",
+              "annual_limit": "",
+              "full_text": "75% הנחה"
+            },
+            "ארד": {
+              "discount": "45%",
+              "annual_limit": "",
+              "full_text": "45% הנחה"
+            },
+            "contacts": {
+              "כללית": {
+                "service_category": "סדנאות בריאות",
+                "raw_contact_line": "2700* או 03-9766111 שלוחה 9",
+                "phones": [
+                  "2700",
+                  "03-9766111"
+                ],
+                "primary_phone": "2700",
+                "extensions": [
+                  "9"
+                ],
+                "primary_extension": "9"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "descriptions": {
+    "דיקור סיני (אקופונקטורה)": "טיפול המבוסס על החדרת מחטים דקות לנקודות מסוימות בגוף",
+    "שיאצו": "שיטת עיסוי יפנית המשלבת לחיצות על נקודות לאורך מסלולי אנרגיה בגוף",
+    "רפלקסולוגיה": "טיפול המבוסס על עיסוי ולחיצות בכפות הרגליים",
+    "נטורופתיה": "גישה טיפולית המשלבת תזונה, צמחי מרפא ושיטות טבעיות אחרות",
+    "הומאופתיה": "שיטת טיפול המבוססת על מתן חומרים מדוללים מאוד",
+    "כירופרקטיקה": "טיפול ידני במערכת השלד והשרירים, בעיקר בעמוד השדרה",
+    "מכבי": "טלפון: 1-700-50-53-53מידע נוסף:https://www.maccabi4u.co.il/health-workshops",
+    "מאוחדת": "טלפון: 1-222-3833מידע נוסף:https://www.meuhedet.co.il/health-workshops",
+    "כללית": "טלפון: 03-9766111מידע נוסף:https://www.clalit.co.il/he/lifestyle/health-workshops",
+    "אבחון הפרעות שפה ודיבור": "הערכה מקיפה של יכולות השפה והדיבור",
+    "טיפול בגמגום": "שיטות טיפול מתקדמות לשיפור שטף הדיבור",
+    "טיפול בהפרעות קול": "שיקום ושיפור איכות הקול",
+    "אבחון וטיפול בהפרעות בליעה": "הערכה וטיפול בקשיי בליעה",
+    "טיפול בעיכוב התפתחותי": "התערבות מוקדמת לילדים עם עיכוב שפתי",
+    "שיקום שמיעה": "תמיכה למשתמשי מכשירי שמיעה ושתלים שבלוליים",
+    "בדיקות וניקוי שיניים": "בדיקות תקופתיות וניקוי מקצועי",
+    "סתימות": "טיפול בעששת ושחזור שיניים",
+    "טיפולי שורש": "טיפול בזיהומים ודלקות בשורשי השיניים",
+    "כתרים ושתלים": "שיקום שיניים פגועות או חסרות",
+    "יישור שיניים": "טיפולים אורתודונטיים לשיפור יישור השיניים והמנשך",
+    "טיפולים קוסמטיים": "הלבנת שיניים, ציפויים ושיפור אסתטי של החיוך",
+    "בדיקות ראייה": "בדיקות תקופתיות לבחינת חדות הראייה ובריאות העיניים",
+    "משקפי ראייה": "התאמה ורכישה של מסגרות ועדשות",
+    "עדשות מגע": "התאמה ורכישה של עדשות מגע רכות או קשות",
+    "טיפולים לתיקון ראייה": "הליכים כגון ניתוחי לייזר לתיקון קוצר ראייה",
+    "אביזרי ראייה מיוחדים": "התאמת מכשירים לראייה ירודה ואביזרים אחרים",
+    "טיפול בילדים": "שירותי אופטומטריה ייעודיים לילדים ונוער",
+    "מעקב הריון": "ביקורים סדירים אצל רופא נשים או מיילדת",
+    "בדיקות סקר גנטיות": "בדיקות לאיתור מחלות תורשתיות",
+    "סקירות מערכות": "בדיקות אולטרסאונד מקיפות",
+    "קורס הכנה ללידה": "הדרכה והכנה לקראת הלידה",
+    "ייעוץ תזונתי": "הדרכה לתזונה נכונה במהלך ההריון",
+    "טיפול בסיבוכי הריון": "מעקב וטיפול במצבים מיוחדים",
+    "הפסקת עישון": "סדנאות לגמילה מעישון ותמיכה בתהליך",
+    "תזונה נכונה": "הדרכה לאכילה בריאה והרגלי תזונה מאוזנים",
+    "פעילות גופנית": "סדנאות לעידוד ושילוב פעילות גופנית בחיי היומיום",
+    "ניהול מתח": "טכניקות להתמודדות עם לחץ וחרדה",
+    "סוכרת": "הדרכה לניהול המחלה ואורח חיים בריא לחולי סוכרת",
+    "הריון ולידה": "הכנה ללידה וטיפול בתינוק"
+  },
+  "metadata": [
+    {
+      "filename": "alternative_services.html",
+      "title": "רפואה משלימה (רפואה אלטרנטיבית)",
+      "description": "רפואה משלימה, הידועה גם כרפואה אלטרנטיבית, מתייחסת למגוון שיטות טיפול שאינן חלק מהרפואה הקונבנציונלית. שיטות אלו משלבות גישות טיפוליות מסורתיות ומודרניות, המתמקדות בטיפול הוליסטי בגוף ובנפש. קופות החולים בישראל מציעות מגוון טיפולים ברפואה משלימה כחלק משירותי הבריאות המורחבים. הטבלה שלהלן מציגה את הטיפולים העיקריים ברפואה משלימה המוצעים על ידי קופות החולים \"מכבי\", \"מאוחדת\" ו\"כללית\" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. הטיפולים המוצגים כוללים:"
+    },
+    {
+      "filename": "communication_clinic_services.html",
+      "title": "מרפאות תקשורת",
+      "description": "מרפאות תקשורת מתמחות באבחון וטיפול בהפרעות תקשורת, שפה, דיבור ובליעה. הן מספקות שירותים מקיפים לילדים ומבוגרים הסובלים ממגוון קשיים תקשורתיים. צוות המרפאות כולל קלינאי תקשורת מומחים, המשתמשים בשיטות טיפול מתקדמות ובטכנולוגיות חדישות לשיפור יכולות התקשורת של המטופלים. הטבלה שלהלן מציגה את השירותים העיקריים המוצעים במרפאות התקשורת של קופות החולים \"מכבי\", \"מאוחדת\" ו\"כללית\" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. השירותים המוצגים כוללים:"
+    },
+    {
+      "filename": "dentel_services.html",
+      "title": "מרפאות שיניים",
+      "description": "מרפאות שיניים מציעות מגוון רחב של שירותי בריאות הפה, כולל בדיקות שגרתיות, ניקויים, סתימות, טיפולי שורש, עקירות, והליכים קוסמטיים. מרפאות אלו מאוישות על ידי רופאי שיניים מורשים ושינניות המשתמשים בציוד מודרני כדי להבטיח טיפול איכותי לפציינטים מכל הגילאים. הטבלה שלהלן מציגה את כל תתי-השירותים במסגרת מרפאות השיניים, ואת התעריפים וההטבות בהתאם למסלולי הביטוח בקופות החולים \"מכבי\", \"מאוחדת\" ו\"כללית\". השירותים המוצגים כוללים:"
+    },
+    {
+      "filename": "optometry_services.html",
+      "title": "אופטומטריה",
+      "description": "אופטומטריה היא תחום העוסק בבריאות העיניים, הראייה ומערכת הראייה. אופטומטריסטים הם אנשי מקצוע המוסמכים לבצע בדיקות ראייה, לאבחן בעיות ראייה ולהתאים פתרונות כגון משקפיים, עדשות מגע ועזרים אופטיים אחרים. הטבלה שלהלן מציגה את השירותים העיקריים בתחום האופטומטריה ואת ההטבות הניתנות למבוטחי קופות החולים \"מכבי\", \"מאוחדת\" ו\"כללית\" במסלולי הביטוח השונים. השירותים המוצגים כוללים:"
+    },
+    {
+      "filename": "pragrency_services.html",
+      "title": "הריון",
+      "description": "תקופת ההריון היא זמן משמעותי בחייה של כל אישה, המלווה בשינויים פיזיים ורגשיים רבים. קופות החולים בישראל מציעות מגוון שירותים ותמיכה לנשים הרות, במטרה להבטיח הריון בריא ובטוח. השירותים כוללים מעקב רפואי, בדיקות שגרתיות, הדרכות והכנה ללידה. הטבלה שלהלן מציגה את השירותים העיקריים המוצעים לנשים הרות על ידי קופות החולים \"מכבי\", \"מאוחדת\" ו\"כללית\" ואת ההטבות הניתנות למבוטחות במסלולי הביטוח השונים. השירותים המוצגים כוללים:"
+    },
+    {
+      "filename": "workshops_services.html",
+      "title": "סדנאות בריאות",
+      "description": "סדנאות בריאות הן חלק חשוב מתוכניות קידום הבריאות של קופות החולים. הן מציעות מגוון רחב של פעילויות חינוכיות ומעשיות המיועדות לשפר את בריאות המבוטחים, להקנות ידע ומיומנויות לאורח חיים בריא, ולסייע בהתמודדות עם מצבי בריאות שונים. הטבלה שלהלן מציגה את הסדנאות העיקריות המוצעות על ידי קופות החולים \"מכבי\", \"מאוחדת\" ו\"כללית\" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. הסדנאות המוצגות כוללות:"
+    }
+  ]
+}

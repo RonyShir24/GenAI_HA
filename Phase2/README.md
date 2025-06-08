@@ -1,0 +1,105 @@
+# Medical Services ChatBot
+
+This repository contains a pipeline for a two-phase chatbot for medical services:
+1. **Information Collection** – gather basic user details (e.g name, HMO, tier).  
+2. **Q&A** – answer user questions using a parsed HTML knowledge base and precomputed embeddings.
+
+---
+## Project Structure
+
+```
+phase2-chatbot/
+├── parsed_hmo_data.json  # parsed HMO info 
+├── embeddings.pkl        # precomputed OpenAI embeddings
+├── phase2_data/          # raw HTML files (knowledge base)
+├── ParseHTML.py          # script to parse HTML → JSON
+├── ActivatePlatform.py   # Main UI script
+├── FastAPI.py            # main FastAPI application
+├── FastAPI_HelpFunction.py  # helper functions for the API
+└── logs/                 # runtime log files
+```
+
+---
+
+## Prerequisites
+
+
+1. Install the **required dependencies** from repository root folder:
+    ```bash
+    pip install -r requirements.txt
+    ```
+2. **Environment variables** - Fill the .env file with all the key and relevnt information. Can be found at from repository root folder.
+
+---
+
+## Installation
+
+```bash
+git clone <your-repo-url> <repository-url>
+cd Phase2
+
+# Create & activate a virtual environment
+python -m venv .venv
+source .venv\Scripts\activate       # Windows
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+---
+
+
+## Regenerating Parsing & Embeddings
+
+> **Note:** Preparsed data (`parsed_hmo_data.json`) and precomputed embeddings (`embeddings.pkl`) are already exsists in the project folder. 
+You can recreate them anytime.
+
+1. **Parse the raw HTML**  
+   ```bash
+   python ParseHTML.py
+   ```
+   - Reads all `.html` files under `Phase2\phase2_data`  
+   - Produces `parsed_hmo_data.json`
+
+2. **Build new embeddings**  
+   ```bash
+   python FastAPI.py
+   ```
+   - Load `parsed_hmo_data.json`  
+   - Produces `embeddings.pkl`
+
+---
+
+## Running the API (Multi-User)
+
+The FastAPI application is defined in `FastAPI.py` (with helpers in `FastAPI_HelpFunction.py`).
+
+Run the backend side:
+   ```bash
+   python FastAPI.py
+   ```
+
+Run the UI:
+   ```bash
+streamlit run \ActivatePlatform.py
+```
+---
+
+
+## Usage Flow
+
+1. **Phase 1**  
+   - Bot collects personal data from the user and manage all user session data and conversation history in client-side:
+      - First and last name
+      - ID number (valid 9-digit number)
+      - Gender
+      - Age (between 0 and 120)
+      - HMO name (מכבי | מאוחדת | כללית)
+      - HMO card number (9-digit)
+      - Insurance membership tier (זהב | כסף | ארד)
+      - Provide a confirmation step for users to review and correct their information.
+
+2. **Phase 2**  
+   - User asks medical-service questions  
+
+
