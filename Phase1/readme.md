@@ -63,7 +63,7 @@ Since we lack labeled ground truth for the extracted JSON, I simulate a referenc
     "address_city": "אבן יהודה"  
     ```
     
-    will give us one to the succsses count
+    will give us one to the success count
 
    Attribute Example
    
@@ -72,7 +72,7 @@ Since we lack labeled ground truth for the extracted JSON, I simulate a referenc
     "address_city": "תל אביב"  
     ```
 
-    will not add to the succsses count
+    will not add to the success count
 
 
 2. **JSON structure accuracy**  
