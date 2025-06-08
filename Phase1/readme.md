@@ -53,7 +53,7 @@ Since we lack labeled ground truth for the extracted JSON, I simulate a referenc
 
    Document Pool Example:
     ```text
-    pool = ['רכב', 'אחר', 'ת.', 'דרכים', 'אבן יהודה', '02021999']
+    pool = ['רכב', 'אחר', 'ת.', 'דרכים', 'אבן' , 'יהודה', '02021999']
     ```
 
    Attribute Example
