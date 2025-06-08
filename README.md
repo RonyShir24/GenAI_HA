@@ -77,7 +77,7 @@ cd project-root
 # Phase 1 setup
 cd Phase1
 python -m venv .venv
-source .venv\Scripts\activate on Windows
+source .venv\Scripts\activate
 pip install -r requirements.txt
 cp .env.example .env
 
