@@ -5,6 +5,27 @@ This repository contains two unrelated phases of the home assigment:
 2. **Phase 2** – Medical Services Chatbot with both user data collection step and a Q&A step.
 
 ---
+## Directory Structure
+
+```
+GENAI_HA/
+├── Phase1/
+│   ├── phase1_data/
+│   ├── ActivatePlatform.py
+│   ├── Phase1.py
+├── Phase2/
+│   ├── parsed_hmo_data.json
+│   ├── embeddings.pkl
+│   ├── phase2_data/
+│   ├── ParseHTML.py
+│   ├── ActivatePlatform.py
+│   ├── FastAPI.py
+│   ├── FastAPI_HelpFunction.py
+│   └── logs/
+└── README.md  # (This file)
+└── requirements.txt
+└──.env.example
+```
 
 ## Phase 1: Document Intelligence Extraction
 
@@ -85,24 +106,3 @@ python FastAPI.py
 streamlit run \ActivatePlatform.py 
 ```
 
-## Directory Structure
-
-```
-GENAI_HA/
-├── Phase1/
-│   ├── phase1_data/
-│   ├── ActivatePlatform.py
-│   ├── Phase1.py
-├── Phase2/
-│   ├── parsed_hmo_data.json
-│   ├── embeddings.pkl
-│   ├── phase2_data/
-│   ├── ParseHTML.py
-│   ├── ActivatePlatform.py
-│   ├── FastAPI.py
-│   ├── FastAPI_HelpFunction.py
-│   └── logs/
-└── README.md  # (This file)
-└── requirements.txt
-└──.env.example
-```
