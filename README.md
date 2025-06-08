@@ -73,22 +73,10 @@ Both files are shared between the two assignments.
 # Clone the repository
 git clone <your-repo-url> 
 cd project-root
-
-# Phase 1 setup
-cd Phase1
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
 cp .env.example .env
-
-# Phase 2 setup
-cd Phase2
-python -m venv .venv
-.venv\Scripts\activate
-pip install -r requirements.txt
-cp .env.example .env
-```
-
 ---
 
 ## Running Each Phase
