@@ -33,7 +33,6 @@ if uploaded_file is not None:
                 
         wordList = DataIntResult["pages"][0]["words"]
 
-        #Extract fields and generate JSON output by using Azure OpenAI.
         LLM_JsonGen4O = phase1.JsonGen(DataIntResult, "gpt-4o")
         LLM_JsonGen4Omini = phase1.JsonGen(DataIntResult , "gpt-4o-mini")
         
