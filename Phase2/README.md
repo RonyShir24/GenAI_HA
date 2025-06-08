@@ -45,7 +45,7 @@ Phase2/
 ## Installation
 
 ```bash
-git clone <your-repo-url> <repository-url>
+git clone <repository-url>
 cd Phase2
 
 # Create & activate a virtual environment
