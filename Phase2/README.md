@@ -1,6 +1,6 @@
 # Medical Services ChatBot
 
-This repository contains a pipeline for a two-phase chatbot for medical services:
+This repository contains a pipeline for a two-phase microservice-based chatbot for medical services:
 1. **Information Collection** – gather basic user details (e.g name, HMO, tier).  
 2. **Q&A** – answer user questions using a parsed HTML knowledge base and precomputed embeddings.
 
@@ -99,7 +99,7 @@ streamlit run \ActivatePlatform.py
 
 ## Usage Flow
 
-all  user session data and conversation history in manage in the client-side
+all user session data and conversation history in manage in the client-side
 
 1. **Phase 1**  
    - Bot collects personal data from the user:
