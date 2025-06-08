@@ -43,7 +43,8 @@ GENAI_HA/
 
 - **Goal**: A two-phase chatbot:
   1. **Information Collection** – Gather user details (e.g name, HMO, tier).  
-  2. **Q&A** – Answer medical service queries using HTML knowledge base and embeddings.  
+  2. **Q&A** – Answer medical service queries using HTML knowledge base and embeddings.
+     
 - **Key Files**:  
   - `parsed_hmo_data.json` – Parsed HMO information.  
   - `embeddings.pkl` – Precomputed embeddings for retrieval.  
