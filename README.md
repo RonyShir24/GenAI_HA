@@ -77,14 +77,14 @@ cd project-root
 # Phase 1 setup
 cd Phase1
 python -m venv .venv
-source .venv/bin/activate  # or .venv\Scripts\activate on Windows
+source .venv\Scripts\activate on Windows
 pip install -r requirements.txt
 cp .env.example .env
 
 # Phase 2 setup
 cd Phase2
 python -m venv .venv
-source .venv/bin/activate
+source .venv\Scripts\activate
 pip install -r requirements.txt
 cp .env.example .env
 ```
