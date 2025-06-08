@@ -311,7 +311,7 @@ class HMOHTMLParser:
         
         return all_data
     
-    def save_parsed_data(self, data: Dict, output_file: str = "Phase2\parsed_hmo_data.json"):
+    def save_parsed_data(self, data: Dict, output_file: str = "parsed_hmo_data.json"):
         """Save parsed data to JSON file"""
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
@@ -320,7 +320,7 @@ class HMOHTMLParser:
 if __name__ == "__main__":
     parser = HMOHTMLParser()
     
-    data = parser.parse_all_files("Phase2\phase2_data")
+    data = parser.parse_all_files("phase2_data")
     
     parser.save_parsed_data(data)
     

@@ -1,9 +1,7 @@
 import os
 from dotenv import load_dotenv
-
 from azure.core.credentials import AzureKeyCredential
 from azure.ai.documentintelligence import DocumentIntelligenceClient
-
 from openai import AzureOpenAI
 import json
 

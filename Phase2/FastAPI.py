@@ -16,10 +16,10 @@ import numpy as np
 import requests
 import pickle
 from sklearn.metrics.pairwise import cosine_similarity
-
+from dotenv import load_dotenv
 
 # ─── Initializtion ──────────────────────────────────────────────────
-
+load_dotenv()
 app = FastAPI(title="Stateless FastAPI Chatbot" , version="1.0.0")
 FASTAPI_URL = "http://localhost:8000"
 
@@ -450,7 +450,7 @@ async def create_embeddings():
         embeddings.append(response.data[0].embedding)
     
     # Save embeddings
-    with open("Phase2\embeddings.pkl", "wb") as f:
+    with open("embeddings.pkl", "wb") as f:
         pickle.dump({"embeddings": embeddings, "documents": documents}, f)
     
     logger.info("Finish creating embeding")
@@ -555,14 +555,14 @@ async def load_data():
     """Load JSON and create embeddings once"""
     global embeddings, documents, benefits_data
     
-    with open("Phase2\parsed_hmo_data.json", "r", encoding="utf-8") as f:
+    with open("parsed_hmo_data.json", "r", encoding="utf-8") as f:
         all_data = json.load(f)
     
     benefits_data = all_data
     
     # Try to load existing embeddings
-    if os.path.exists("Phase2\embeddings.pkl"):
-        with open("Phase2\embeddings.pkl", "rb") as f:
+    if os.path.exists("embeddings.pkl"):
+        with open("embeddings.pkl", "rb") as f:
             data = pickle.load(f)
             embeddings = data["embeddings"]
             documents = data["documents"]
