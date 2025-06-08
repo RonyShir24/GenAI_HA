@@ -20,12 +20,12 @@ Phase2/
 ```
 
 - **parsed_hmo_data.json** – Contains the structured HMO information extracted from the raw HTML files, ready for embedding and retrieval.  
-- **embeddings.pkl** – Stores precomputed OpenAI embedding vectors for all parsed documents to enable fast similarity searches.  
+- **embeddings.pkl** – Stores precomputed OpenAI embedding for all parsed documents to enable fast similarity searches.  
 - **phase2_data/** – Holds the original HTML files that serve as the knowledge base for the chatbot’s Q&A phase.  
 - **ParseHTML.py** – A script that reads the raw HTML in `phase2_data/` and converts it into clean, structured JSON.  
-- **ActivatePlatform.py** – The main UI script that orchestrates data loading, embedding creation, and platform startup.  
+- **ActivatePlatform.py** – The main UI script that hold platform startup.  
 - **FastAPI.py** – Defines the FastAPI application with endpoints for both information collection and Q&A interactions.  
-- **FastAPI_HelpFunction.py** – Provides helper functions for request handling, context management, and embedding lookup.  
+- **FastAPI_HelpFunction.py** – Provides helper functions for request handling. 
 - **logs/** – Directory where runtime log files are written to track chatbot activity and errors.  
 
 
@@ -38,25 +38,26 @@ Phase2/
     ```bash
     pip install -r requirements.txt
     ```
-2. **Environment variables** - Fill the .env file with all the key and relevnt information. Can be found at from repository root folder.
+
+    #### Installation
+
+   ```bash
+   git clone <repository-url>
+   cd Phase2
+
+   # Create & activate a virtual environment
+   python -m venv .venv
+   source .venv\Scripts\activate       # Windows
+
+   # Install dependencies
+   pip install -r requirements.txt
+   ```
+
+2. **Environment variables** - Fill the .env file with all the key and relevnt information. Can be found at the repository root folder.
 
 ---
 
-## Installation
 
-```bash
-git clone <repository-url>
-cd Phase2
-
-# Create & activate a virtual environment
-python -m venv .venv
-source .venv\Scripts\activate       # Windows
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
----
 
 
 ## Regenerating Parsing & Embeddings
@@ -98,8 +99,10 @@ streamlit run \ActivatePlatform.py
 
 ## Usage Flow
 
+all  user session data and conversation history in manage in the client-side
+
 1. **Phase 1**  
-   - Bot collects personal data from the user and manage all user session data and conversation history in client-side:
+   - Bot collects personal data from the user:
       - First and last name
       - ID number (valid 9-digit number)
       - Gender
