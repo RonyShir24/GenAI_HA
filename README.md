@@ -62,6 +62,8 @@ Both files are shared between the two assignments.
   - `.env.example` – Template for environment variables.  Copy the file and fill all relevent fields. 
   - `requirements.txt` – Python dependencies.
 
+  - An Azure credentials
+
 ---
 
 ## Setup & Installation
