@@ -97,7 +97,7 @@ cp .env.example .env
 
 ```bash
 cd Phase1
-streamlit run \ActivatePlatform.py
+streamlit run ActivatePlatform.py
 ```
 ---
 
@@ -106,6 +106,6 @@ streamlit run \ActivatePlatform.py
 ```bash
 cd Phase1
 python FastAPI.py                     
-streamlit run \ActivatePlatform.py 
+streamlit run ActivatePlatform.py 
 ```
 
