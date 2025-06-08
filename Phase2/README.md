@@ -62,6 +62,7 @@ You can recreate them anytime.
 
 1. **Parse the raw HTML**  
    ```bash
+   cd Phase2
    python ParseHTML.py
    ```
    - Reads all `.html` files under `Phase2\phase2_data`  
@@ -69,6 +70,7 @@ You can recreate them anytime.
 
 2. **Build new embeddings**  
    ```bash
+   cd Phase2
    python FastAPI.py
    ```
    - Load `parsed_hmo_data.json`  
@@ -82,11 +84,13 @@ The FastAPI application is defined in `FastAPI.py` (with helpers in `FastAPI_Hel
 
 Run the backend side:
    ```bash
+    cd Phase2
    python FastAPI.py
    ```
 
 Run the UI:
    ```bash
+cd Phase2
 streamlit run ActivatePlatform.py
 ```
 ---
