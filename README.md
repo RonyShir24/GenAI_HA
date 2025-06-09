@@ -10,13 +10,11 @@ This repository contains two unrelated phases of the home assigment:
 ```
 GENAI_HA/
 ├── Phase1/
-│   ├── phase1_data/
 │   ├── ActivatePlatform.py
 │   ├── Phase1.py
 ├── Phase2/
 │   ├── parsed_hmo_data.json
 │   ├── embeddings.pkl
-│   ├── phase2_data/
 │   ├── ParseHTML.py
 │   ├── ActivatePlatform.py
 │   ├── FastAPI.py
@@ -33,9 +31,6 @@ GENAI_HA/
 - **Key Scripts**:
   - `ActivatePlatform.py` – launches the UI and serve as main script.  
   - `Phase1.py` - backend functions (analysis and metrics)
-  
-- **Data**:
-  - `phase1_data/` – Raw documents for extraction.  
 
 ---
 
@@ -48,7 +43,6 @@ GENAI_HA/
 - **Key Files**:  
   - `parsed_hmo_data.json` – Parsed HMO information.  
   - `embeddings.pkl` – Precomputed embeddings for retrieval.  
-  - `phase2_data/` – Raw HTML knowledge base.  
   - `ParseHTML.py` – Parses HTML files to JSON.  
   - `ActivatePlatform.py` – launches the UI ans main pipline script.  
   - `FastAPI.py` – FastAPI application with endpoints.  
