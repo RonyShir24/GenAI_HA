@@ -8,14 +8,12 @@ It computes **accuracy** and **completeness** metrics to evaluate extraction qua
 ## Project Structure
 ```bash
 ./
-├── phase1_data/                # Sample for Phase 1
 ├── ActivatePlatform.py         # Streamlit application and main pipeline (main UI)
 ├── Phase1.py                   # Backend functions (analysis and metrics)
 └── README.md                   # Project documentation (this file)
 ```
   - `ActivatePlatform.py` – launches the UI and serve as main script.  
   - `Phase1.py` - backend functions (analysis and metrics)
-  - `phase1_data/` – Raw documents for extraction.  
 
 ## Prerequisites    
 1. Install the **required dependencies** from root folder:
