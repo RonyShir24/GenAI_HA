@@ -11,7 +11,6 @@ This repository contains a pipeline for a two-phase microservice-based chatbot f
 Phase2/
 ├── parsed_hmo_data.json  # parsed HMO info 
 ├── embeddings.pkl        # precomputed OpenAI embeddings
-├── phase2_data/          # raw HTML files (knowledge base)
 ├── ParseHTML.py          # script to parse HTML → JSON
 ├── ActivatePlatform.py   # Main UI script
 ├── FastAPI.py            # main FastAPI application
@@ -21,7 +20,6 @@ Phase2/
 
 - **parsed_hmo_data.json** – Contains the structured HMO information extracted from the raw HTML files, ready for embedding and retrieval.  
 - **embeddings.pkl** – Stores precomputed OpenAI embedding for all parsed documents to enable fast similarity searches.  
-- **phase2_data/** – Holds the original HTML files that serve as the knowledge base for the chatbot’s Q&A phase.  
 - **ParseHTML.py** – A script that reads the raw HTML in `phase2_data/` and converts it into clean, structured JSON.  
 - **ActivatePlatform.py** – The main UI script that hold platform startup.  
 - **FastAPI.py** – Defines the FastAPI application with endpoints for both information collection and Q&A interactions.  
